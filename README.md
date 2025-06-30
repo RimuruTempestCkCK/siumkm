@@ -50,16 +50,6 @@ Sistem ini dibangun menggunakan kombinasi **PHP + MySQL**, serta tampilan antarm
 
 ---
 
-## 📸 Tampilan Aplikasi
-
-| Dashboard Admin                       | Laporan Keuangan                      |
-|--------------------------------------|----------------------------------------|
-| ![Admin](https://via.placeholder.com/400x200.png?text=Dashboard+Admin) | ![Laporan](https://via.placeholder.com/400x200.png?text=Laporan+Keuangan) |
-
-> 📌 *Ganti placeholder di atas dengan screenshot aktual dari aplikasimu untuk tampilan lebih menarik.*
-
----
-
 ## 🚀 Cara Menjalankan
 
 1. **Clone repositori ini**
